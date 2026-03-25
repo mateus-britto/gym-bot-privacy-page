@@ -1,2 +1,2 @@
-# gym-bot-privacy-page
+# ChatBot Privacy Page
 Privacy Policy for Gym Chatbot
